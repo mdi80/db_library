@@ -35,6 +35,18 @@ insert into person values
 ('hashem','leilaee'),
 ('hossein','alaie'),
 ('mmd','hazrati'),
+('armin','leilaee'),
+('hesam','hasani'),
+('af','eb'),
+('hashem','leilaee'),
+('hossein','alaie'),
+('mmd','hazrati'),
+('armin','leilaee'),
+('hesam','hasani'),
+('af','eb'),
+('hashem','leilaee'),
+('hossein','alaie'),
+('mmd','hazrati'),
 ('armin','leilaee');
 
 
